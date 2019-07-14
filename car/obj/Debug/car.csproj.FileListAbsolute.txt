@@ -1,0 +1,47 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\bin\Debug\car.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\bin\Debug\car.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\bin\Debug\car.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\obj\Debug\car.login.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\obj\Debug\car.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\obj\Debug\car.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\obj\Debug\car.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\car\car\obj\Debug\car.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\bin\Debug\login.mdf
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\bin\Debug\login_log.ldf
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.PriceList.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.SalesandDeals.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.SuperAdmin.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.SalesReport.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.SalesRegister.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.VehicleInventory.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.Employeepro.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.AdminPanel.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\bin\Debug\car.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\bin\Debug\login.mdf
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\bin\Debug\login_log.ldf
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\bin\Debug\car.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\bin\Debug\car.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.AdminPanel.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.AEcontrol.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.Aemployee.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.APriceList.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.ASalesndDeals.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.ASalesRegister.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.AsalesReport.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.AvehicleInventory.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.Employeepro.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.login.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.PriceList.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.SalesandDeals.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.SalesRegister.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.SalesReport.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.SuperAdmin.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.VehicleInventory.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Car Shop Management final project\car\obj\Debug\car.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.Acontrol.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\car\car\obj\Debug\car.Asalesanddeals.resources
